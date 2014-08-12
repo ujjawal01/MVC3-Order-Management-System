@@ -7,4 +7,5 @@ Administrators can add new products.
 A Demo Checkout system is implemented. (No Paypal intergration has been done). 
 
 Language: C#. 
+
 Also used: HTML5, CSS, JavaScript, jQuery, SQL, Enterprise Library 5.
